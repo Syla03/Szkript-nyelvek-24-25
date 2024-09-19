@@ -6,6 +6,7 @@ print("Szia", "DUE!", sep=':)')
 print("\nSzia", "\n\tDue!", end="")
 print('''Ez több
 sorba kerül!''')
+# Komment
 
 felhasznalo_neve = "Jenő"
 print(felhasznalo_neve)
